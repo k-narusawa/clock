@@ -1,0 +1,10 @@
+{
+  "name": "clock",
+  "description": "時間を表示",
+  "version": "0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "options_page": "options.html"
+}
